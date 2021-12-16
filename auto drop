@@ -1,11 +1,11 @@
-getgenv().Host = 'HAHATDOGKA1011'
+getgenv().Host = 'Eymb0tsu'
 getgenv().FPS = 5
 getgenv().AutoChatMsg = 'thx for buying'
 getgenv().Prefix = ':'
 getgenv().Alts = {
-    Bringer = 1327440729, 
-    Alt1 = 2341657889,
-    Alt2 = 2469743542,
+    Bringer = 2341657889, 
+    Alt1 = 2469743542,
+    Alt2 = 1327440729,
 }
 
 loadstring(game:HttpGet('https://raw.githubusercontent.com/W9K/roblox-scripts/main/DHC/AKU_AltControl.lua'))()
