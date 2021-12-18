@@ -3,9 +3,9 @@ getgenv().FPS = 5
 getgenv().AutoChatMsg = 'WYYD HERE KID? TRYNA STEAL? LOL'
 getgenv().Prefix = '+'
 getgenv().Alts = {
-    Bringer = 2341657889,
+    Bringer = 1327440729,
     Alt1 = 2469743542,
-    Alt2 = 1327440729,
+    Alt2 = 2341657889,
 }
 
 loadstring(game:HttpGet('https://raw.githubusercontent.com/W9K/roblox-scripts/main/DHC/AKU_AltControl.lua'))()
