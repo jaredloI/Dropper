@@ -6,6 +6,8 @@ getgenv().Alts = {
     Bringer = 2341657889,
     Alt1 = 1327440729,
     Alt2 = 2469743542,
+    Alt3 = 334328809,
+    Alt4 = 127772155,
 }
 
 loadstring(game:HttpGet('https://raw.githubusercontent.com/W9K/roblox-scripts/main/DHC/AKU_AltControl.lua'))()
