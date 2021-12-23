@@ -1,12 +1,11 @@
-getgenv().Host = 'Xxxspidermann'
+getgenv().Host = 'CoadyByrde'
 getgenv().FPS = 5
 getgenv().AutoChatMsg = 'jared pogi'
-getgenv().Prefix = '+'
+getgenv().Prefix = ':'
 getgenv().Alts = {
-    Bringer = 334328809,
+    Bringer = 127772155,
     Alt1 = 1327440729,
-    Alt2 = 2469743542,
-    Alt3 = 334328809,
+    Alt2 = 334328809,
     Alt4 = 2341657889,
 }
 
