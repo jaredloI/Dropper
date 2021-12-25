@@ -1,7 +1,7 @@
 getgenv().Host = 'Eymb0tsu'
 getgenv().FPS = 5
 getgenv().AutoChatMsg = 'jared pogi'
-getgenv().Prefix = 'jaredsays'
+getgenv().Prefix = ':'
 getgenv().Alts = {
     Bringer = 2341657889,
     Alt1 = 1327440729,
