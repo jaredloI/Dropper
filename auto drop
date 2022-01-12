@@ -3,12 +3,11 @@ getgenv().FPS = 5
 getgenv().AutoChatMsg = 'Buy From Extlaw$ DHC .gg/HyP4jYdH'
 getgenv().Prefix = '?'
 getgenv().Alts = {
-    Bringer = 2341657889,
+    Bringer = 127772155,
     Alt1 = 3143508730,
     Alt2 = 3143515926,
     Alt3 = 1327440729,
     Alt4 = 334328809,
-    Alt5 = 127772155,
 }
 
 loadstring(game:HttpGet('https://raw.githubusercontent.com/jaredloI/Droppir/main/duper'))()
