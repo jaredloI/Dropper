@@ -1,7 +1,7 @@
 getgenv().Host = 'Eymb0tsu'
 getgenv().FPS = 5
 getgenv().AutoChatMsg = 'Buy From Extlaw$ DHC .gg/HyP4jYdH'
-getgenv().Prefix = '?'
+getgenv().Prefix = '.'
 getgenv().Alts = {
     Bringer = 127772155,
     Alt1 = 3143508730,
