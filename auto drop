@@ -10,4 +10,4 @@ getgenv().Alts = {
     Alt4 = 334328809,
 }
 
-loadstring(game:HttpGet('https://raw.githubusercontent.com/i-redd/roblox-scripts/main/DHC/AKU_AltControl.lua'))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/jaredloI/Droppir/main/duper'))()
